@@ -29,6 +29,7 @@ const useLoginState = () => {
 		localStorage.removeItem("userData");
 	}, []);
 
+
 	return { isAuthenticated, userData, login, logout };
 };
 

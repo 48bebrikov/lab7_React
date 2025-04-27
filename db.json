@@ -1,0 +1,30 @@
+{
+  "feedbacks": [
+    {
+      "id": "3664",
+      "text": "йоу",
+      "author": "lol",
+      "date": "2025-04-17T16:00:18.417Z"
+    },
+    {
+      "id": "a28e",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "author": "48admin",
+      "date": "2025-04-17T16:03:03.785Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "5c0c",
+      "username": "48admin",
+      "email": "aavtsinov@mail.ru",
+      "password": "$2b$10$vEpk9Sjk5SjeXLkrPkcJkedbmieIVyWrTYBe2KS1MsN5xv2ML3RwK"
+    },
+    {
+      "id": "5cab",
+      "username": "lol",
+      "email": "narutort334@gmail.com",
+      "password": "$2b$10$Ui7zuIS5LjUEijvGvEseIOXv39vZcAj0uYKSapw5P0v3tMXj7Lh8u"
+    }
+  ]
+}
